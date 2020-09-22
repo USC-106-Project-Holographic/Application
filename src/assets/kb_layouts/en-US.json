@@ -305,8 +305,8 @@
             "ctrl_cmd": "~~~CTRLSEQ2~~~"
         },
         {
-            "name": "",
-            "cmd": "\r"
+            "name": "SHIFT",
+            "cmd": "ESCAPED|-- SHIFT: RIGHT"
         }
     ],
     "row_3": [
@@ -388,10 +388,6 @@
             "shift_cmd": "?"
         },
         {
-            "name": "SHIFT",
-            "cmd": "ESCAPED|-- SHIFT: RIGHT"
-        },
-        {
             "name": "ESCAPED|-- ICON: ARROW_UP",
             "cmd": "~~~CTRLSEQ1~~~OA"
         }
@@ -411,7 +407,7 @@
             "cmd": " "
         },
         {
-            "name": "ALT GR",
+            "name": "ALT",
             "cmd": "ESCAPED|-- ALT: RIGHT"
         },
         {
