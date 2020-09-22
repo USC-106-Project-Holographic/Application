@@ -26,5 +26,5 @@
         "pin": "#aacfd1",
         "satellite": "#aacfd1"
     },
-    "injectCSS": "section#keyboard{width: 100vw;} div.keyboard_key{margin: 0vh 0.8vh;} div.keyboard_key#keyboard_spacebar{width: 53.5vh;min-width: 53.5vh;} section#filesystem{display:none;}"
+    "injectCSS": "section#keyboard{width: 100vw;} section#filesystem{display:none;}"
 }
